@@ -1,6 +1,7 @@
 # YOLOv5 🚀 requirements
 # Usage: pip install -r requirements.txt
 
+lxml
 # Base ------------------------------------------------------------------------
 gitpython
 ipython  # interactive notebook
