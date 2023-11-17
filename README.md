@@ -4,7 +4,7 @@
 
 1. 将预训练好的权重放入models/weights中，修改demo.py文件中的(.pt)；
 
-2. 在demo。py中配置需要标注的图片路径和要保存xml路径；
+2. 在demo.py中配置需要标注的图片路径和要保存xml路径；
    
 3. 修改config.py中的权重路径；
 
